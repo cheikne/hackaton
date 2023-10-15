@@ -1,0 +1,22 @@
+{
+    "Isolation": {
+      "Isolation des murs extérieurs": ["bonne", "moyenne", "mauvaise"],
+      "Isolation du toit": ["bonne", "moyenne", "mauvaise"],
+      "Type de vitrage": ["simple vitrage", "double vitrage", "triple vitrage"]
+    },
+    "Nombre d'employés dans les locaux": {
+      "préciser l'échelles": ["moins de 20", "entre 21 et 50", "entre 51 et 100", "entre 101 et 300", "plus de 300"]
+    },
+    "Localisation": {
+      "Zone géographique": ["Region1", "Region2", "Region3", "Region4"]
+    },
+    "Secteur d'activité": {
+      "secteur": ["tertiaire", "secondaire", "primaire"]
+    },
+    "Type de bâtiment": {
+      "Type": ["Entrepôt", "Usine de production", "Bureaux"]
+    },
+    "Superficie du bâtiment": {
+      "préciser l'échelles": ["moins de 100 m²", "entre 100 m² et 500 m²", "entre 501 m² et 1 000 m²", "entre 1 001 m² et 5 000 m²", "entre 5 001 m² et 10 000 m²", "plus de 10 000 m²"]
+    }
+}
